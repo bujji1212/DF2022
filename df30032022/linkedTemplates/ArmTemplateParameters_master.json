@@ -5,10 +5,10 @@
 		"factoryName": {
 			"value": "df30032022"
 		},
-		"AzureSqlDatabase1_connectionString": {
+		"ls_abs1_connectionString": {
 			"value": ""
 		},
-		"ls_abs1_connectionString": {
+		"AzureSqlDatabase1_connectionString": {
 			"value": ""
 		},
 		"containerUri": {
